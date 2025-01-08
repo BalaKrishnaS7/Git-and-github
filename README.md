@@ -31,3 +31,4 @@ tutorial of git and github
    ```
 10. deploy the project using netlify 
 11. make changes in html file and add the file  
+12. commit the chnages and push to origin
